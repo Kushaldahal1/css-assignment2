@@ -1,0 +1,257 @@
+body{
+  text-align: center;
+  font-family: "Satisfy";
+  font-size: 1.1rem;
+  background-image: url(img.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+p{
+  margin: 10px;
+}
+
+footer{
+  margin-top: 100px;
+}
+
+.font-checker{
+  position: fixed;
+}
+.pacifico{
+  font-family: "pacifico";
+}
+.lobster{
+  font-family: "Lobster Two";
+}
+.brush{
+  font-family: "Nanum Brush Script";
+  font-size: 1.6rem;
+}
+.dancing{
+  font-family: "Dancing Script";
+}
+.satisfy{
+  font-family: "satisfy";
+}
+
+.line1 {
+  color: #4B0082;
+}
+
+.line2 {
+  color: #FF0000;
+}
+
+.line3 {
+  color: #800080;
+}
+
+.line4 {
+  color: #2F4F4F;
+}
+
+.line5 {
+  color: #FF69B4;
+}
+
+.line6 {
+  color: #FF4500;
+}
+
+.line7 {
+  color: #8A2BE2;
+}
+
+.line8 {
+  color: #FFD700;
+}
+
+.line9 {
+  color: #FF1493;
+}
+
+.line10 {
+  color: #00FF00;
+}
+
+.line11 {
+  color: #1E90FF;
+}
+
+.line12 {
+  color: #A9A9A9;
+}
+
+.line13 {
+  color: #800080;
+}
+
+.line14 {
+  color: #2F4F4F;
+}
+
+.line15 {
+  color: #4682B4;
+}
+
+.line16 {
+  color: #FF6347;
+}
+
+.line17 {
+  color: #000000;
+}
+
+.line18 {
+  color: #708090;
+}
+
+.line19 {
+  color: #808080;
+}
+
+.line20 {
+  color: #8B0000;
+}
+
+.line21 {
+  color: #191970;
+}
+
+.line22 {
+  color: #FFD700;
+}
+
+.line23 {
+  color: #2F4F4F;
+}
+
+.line24 {
+  color: #8A2BE2;
+}
+
+.line25 {
+  color: #FF4500;
+}
+
+.line26 {
+  color: #FF6347;
+}
+
+.line27 {
+  color: #808080;
+}
+
+.line28 {
+  color: #32CD32;
+}
+
+.line29 {
+  color: #2F4F4F;
+}
+
+.line30 {
+  color: #191970;
+}
+
+.line31 {
+  color: #32CD32;
+}
+
+.line32 {
+  color: #FF1493;
+}
+
+.line33 {
+  color: #FFD700;
+}
+
+.line34 {
+  color: #8A2BE2;
+}
+
+.line35 {
+  color: #FF4500;
+}
+
+.line36 {
+  color: #FF6347;
+}
+
+.line37 {
+  color: #FF1493;
+}
+
+.line38 {
+  color: #808080;
+}
+
+.line39 {
+  color: #FFD700;
+}
+
+.line40 {
+  color: #FF4500;
+}
+
+.line41 {
+  color: #FF6347;
+}
+
+.line42 {
+  color: #000000;
+}
+
+.line43 {
+  color: #808080;
+}
+
+.line44 {
+  color: #2F4F4F;
+}
+
+.line45 {
+  color: #8B0000;
+}
+
+.line46 {
+  color: #8B0000;
+}
+
+.line47 {
+  color: #708090;
+}
+
+.line48 {
+  color: #FF6347;
+}
+
+.line49 {
+  color: #000000;
+}
+
+.line50 {
+  color: #FF4500;
+}
+
+.line51 {
+  color: #FF6347;
+}
+
+.line52 {
+  color: #808080;
+}
+
+.line53 {
+  color: #FFD700;
+}
+
+.line54 {
+  color: #FF4500;
+}
+
+.line55 {
+  color: #FF6347;
+}
